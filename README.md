@@ -58,7 +58,7 @@ Desarrolladora en formación con enfoque creativo, **Técnica en Elaboración de
 ## 📫 Contacto
 
 * GitHub: *(jharlysrivera18.github.io)*
-* Correo: *(jhatrlysrivera@gmail.com)*
+* Correo: *(jharlysrivera@gmail.com)*
 
 ---
 
