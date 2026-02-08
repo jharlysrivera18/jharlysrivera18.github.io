@@ -60,6 +60,3 @@ Desarrolladora en formación con enfoque creativo, **Técnica en Elaboración de
 * GitHub: *(jharlysrivera18.github.io)*
 * Correo: *(jharlysrivera@gmail.com)*
 
----
-
-✨ *Este perfil está diseñado para presentarse como README en GitHub, destacando habilidades, formación y enfoque profesional.*
