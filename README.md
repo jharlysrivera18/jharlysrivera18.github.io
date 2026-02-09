@@ -1,63 +1,64 @@
 # 👩🏽‍💻 Jharlys Rivera
 
-## 🎬 Perfil Profesional
+## 🎬 Professional Profile
 
-Desarrolladora en formación con enfoque creativo, **Técnica en Elaboración de Audiovisuales**, responsable, empática y creativa, con buen liderazgo y habilidades para el trabajo colaborativo. Cuento con competencias comunicativas sólidas y dominio funcional de la **lengua extranjera inglés**, así como conocimientos básicos en **Análisis y Desarrollo de Software (ADSO)**. Me encuentro en constante proceso de aprendizaje en el área de desarrollo, con interés en fortalecer mis habilidades técnicas y aportar soluciones funcionales y creativas en entornos digitales y audiovisuales.
+Developer in training with a creative focus, **Audiovisual Production Technician**, responsible, empathetic, and creative, with strong leadership skills and the ability to work collaboratively. I have solid communication skills and functional proficiency in the **English foreign language**, as well as basic knowledge in **Software Analysis and Development (ADSO)**. I am in a constant learning process in the development field, with an interest in strengthening my technical skills and contributing functional and creative solutions in digital and audiovisual environments.
 
 ---
 
-## 🎓 Formación Académica
+## 🎓 Academic Background
 
-* **Técnico en Elaboración de Audiovisuales**
+- **Audiovisual Production Technician**  
   *SENA*
-* **Formación en Análisis y Desarrollo de Software (ADSO)** *(en proceso / nivel básico)*
+
+- **Training in Software Analysis and Development (ADSO)** *(in progress / basic level)*
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-* Producción y edición de contenidos audiovisuales
-* Creación de guiones y narrativas visuales
-* Manejo básico de herramientas de edición audiovisual
-* Comunicación audiovisual con enfoque creativo y educativo
-* Conocimientos básicos en **Análisis y Desarrollo de Software (ADSO)**
-* Lógica de programación a nivel introductorio
-* Comprensión de la estructura de aplicaciones y sistemas de información
-* Uso básico de herramientas digitales para el desarrollo de software
-
----
-
-## 🌍 Idiomas
-
-* **Español:** Nativo
-* **Inglés:** Nivel comunicativo / funcional
+- Audiovisual content production and editing  
+- Scriptwriting and visual storytelling  
+- Basic handling of audiovisual editing tools  
+- Audiovisual communication with a creative and educational approach  
+- Basic knowledge in **Software Analysis and Development (ADSO)**  
+- Introductory-level programming logic  
+- Understanding of application and information system structures  
+- Basic use of digital tools for software development  
 
 ---
 
-## 💡 Habilidades Blandas
+## 🌍 Languages
 
-* Responsabilidad
-* Liderazgo
-* Empatía
-* Creatividad
-* Comunicación asertiva
-* Trabajo en equipo
-* Pensamiento lógico básico
-* Disposición para el aprendizaje continuo
-* Resoetuosa
+- **Spanish:** Native  
+- **English:** Communicative / functional level  
 
 ---
 
-## 📌 Intereses Profesionales
+## 💡 Soft Skills
 
-* Quiero ser desarrolladora de diseño web
-* Quiero ser programadora frontend
- 
+- Responsibility  
+- Leadership  
+- Empathy  
+- Creativity  
+- Assertive communication  
+- Teamwork  
+- Basic logical thinking  
+- Willingness for continuous learning  
+- Respectful  
 
 ---
 
-## 📫 Contacto
+## 📌 Professional Interests
 
-* GitHub: *(jharlysrivera18.github.io)*
-* Correo: *(jharlysrivera@gmail.com)*
+- I want to be a web design developer  
+- I want to be a frontend programmer  
+
+---
+
+## 📫 Contact
+
+- GitHub: [jharlysrivera18.github.io](https://jharlysrivera18.github.io)
+- Email: [jharlysrivera@gmail.com](mailto:jharlysriver@gmail.com)
+
 
