@@ -44,6 +44,7 @@ Desarrolladora en formación con enfoque creativo, **Técnica en Elaboración de
 * Trabajo en equipo
 * Pensamiento lógico básico
 * Disposición para el aprendizaje continuo
+* Resoetuosa
 
 ---
 
