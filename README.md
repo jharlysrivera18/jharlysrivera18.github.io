@@ -39,7 +39,6 @@ Developer in training with a creative focus, **Audiovisual Production Technician
 
 - Responsibility  
 - Leadership  
-- Empathy  
 - Creativity  
 - Assertive communication  
 - Teamwork  
